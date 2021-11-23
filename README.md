@@ -8,12 +8,18 @@
 - Rimuovi pubblicità [PC] = [BLOCKTHESPOT](https://github.com/mrpond/BlockTheSpot#installationupdate)
 
 # Giochi gratis
+- [CS.RIN](https://cs.rin.ru/forum/)
+- [GOG GAMES](https://gog-games.com/) - (Tutti giochi GOG craccati)
 - [STEAM UNLOCKED](https://steamunlocked.net/)
 - [GETGAMEZ](https://getgamez.net/)
 - [CRACKED GAMES](https://cracked-games.org/)
 - [OTOMI GAMES](https://otomi-games.com/) - (porno-hentai)
 - [KIMOCHI](https://kimochi.info/) - (hentai)
 - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - (android)
+
+# Torrent
+- [1337x](https://1337x.to/)
+- [RARBG](https://rarbg.to)
 
 # Account gratis
 - [LEAKS](leak.sx) - (Streaming, VPN, Gaming, Musica)

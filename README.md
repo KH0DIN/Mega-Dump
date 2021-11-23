@@ -32,4 +32,4 @@
 
 # URL Shorteners
 - [THE BYPASSER](https://thebypasser.com/) - (Bypassa Linkvertise)
-- [UNIVERSAL BYPASS](https://universal-bypass.org/)
+- [UNIVERSAL BYPASS](https://universal-bypass.org/) - (Estensione)

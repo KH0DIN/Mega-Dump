@@ -22,7 +22,7 @@
 - [RARBG](https://rarbg.to)
 
 # Account gratis
-- [LEAKS](leak.sx) - (Streaming, VPN, Gaming, Musica)
+- [LEAKS](https://leak.sx/) - (Streaming, VPN, Gaming, Musica)
 - [H-GEN](https://h-gen.to/) - (Disney+, NordVPN)
 - [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
 

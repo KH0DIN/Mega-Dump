@@ -7,6 +7,9 @@
 # Spotify
 - Rimuovi pubblicità [PC] = [BLOCKTHESPOT](https://github.com/mrpond/BlockTheSpot#installationupdate)
 
+# Youtube
+- [NSFW](https://youtubensfw.com/) - Vedi video col blocco d'età
+
 # Giochi gratis
 - [CS.RIN](https://cs.rin.ru/forum/)
 - [GOG GAMES](https://gog-games.com/) - (Tutti giochi GOG craccati)

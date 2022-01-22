@@ -27,6 +27,7 @@
 # Account gratis
 - [LEAKS](https://leak.sx/) - (Streaming, VPN, Gaming, Musica)
 - [H-GEN](https://h-gen.to/) - (Disney+, NordVPN)
+- [H-GEN V2](https://beta.h-gen.to/) - (Disney+, NordVPN)
 - [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
 
 # Porno

@@ -44,3 +44,9 @@
 # URL Shorteners
 - [THE BYPASSER](https://thebypasser.com/) - (Bypassa Linkvertise)
 - [UNIVERSAL BYPASS](https://universal-bypass.org/) - (Estensione)
+
+# Estensioni Utili
+- [HONEY](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - (Sconti Shopping Online)
+- [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - (Aggiunge i Dislike su Youtube)
+- [SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - (Rimuove le sponsorizzazioni dai video)
+- [Buster](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - (Risolve i Capcha in 1 secondo)

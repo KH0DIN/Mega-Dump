@@ -46,7 +46,7 @@
 - [UNIVERSAL BYPASS](https://universal-bypass.org/) - (Estensione)
 
 # Estensioni Utili
-- [HONEY](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - (Sconti Shopping Online)
-- [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - (Aggiunge i Dislike su Youtube)
-- [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - (Rimuove le sponsorizzazioni dai video)
-- [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - (Risolve i Capcha in 1 secondo)
+- [HONEY](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - (Sconti Shopping Online) [firefox](https://addons.mozilla.org/it/firefox/addon/honey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - (Aggiunge i Dislike su Youtube) [firefox](https://addons.mozilla.org/it/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - (Rimuove le sponsorizzazioni dai video) [firefox](https://addons.mozilla.org/it/firefox/addon/sponsorblock/)
+- [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - (Risolve i Capcha in 1 secondo) [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)

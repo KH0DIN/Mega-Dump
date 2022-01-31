@@ -32,7 +32,8 @@
 
 # Porno
 - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)
-- [COOMER PARTY](https://coomer.party) - (Onlyfans)
+- [COOMER](https://coomer.party) - (Onlyfans)
+- [KEMONO](https://kemono.party/) - (Patreon)
 
 # Windows
 - [SHUTUP10](https://www.oo-software.com/en/shutup10) - (Impedisce a Windows di spiarti)

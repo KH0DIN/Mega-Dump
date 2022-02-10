@@ -4,6 +4,10 @@
 - **rgss3a** = [DECRYPTER](https://wiki.rpgmaker.es/ayuda/utilidades/rpg-maker-xp-vx-vx-ace-decrypter)
 - **rpgmvp - png_** = [DECRYPTER](https://petschko.org/tools/mv_decrypter/#restore-images)
 
+# Wallpaper Engine
+- [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/) - estrae i file
+- [REPKG](https://github.com/notscuffed/repkg) - Estrae .tex
+
 # Spotify
 - Rimuovi pubblicità [PC] = [BLOCKTHESPOT](https://github.com/mrpond/BlockTheSpot#installationupdate)
 

@@ -33,6 +33,7 @@
 - [H-GEN](https://h-gen.to/) - (Disney+, NordVPN)
 - [H-GEN V2](https://beta.h-gen.to/) - (Disney+, NordVPN)
 - [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
+- [SELLIX](https://accountslayer.sellix.io/) - (Pagamento)
 
 # Porno
 - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)

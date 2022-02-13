@@ -3,9 +3,7 @@
 - **pak - xp3** = [KRKR EXTRACT](https://xmoeproject.github.io/KrkrExtract/)
 - **rgss3a** = [DECRYPTER](https://wiki.rpgmaker.es/ayuda/utilidades/rpg-maker-xp-vx-vx-ace-decrypter)
 - **rpgmvp - png_** = [DECRYPTER](https://petschko.org/tools/mv_decrypter/#restore-images)
-
-# Wallpaper Engine
-- [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/) - estrae i file
+- [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/) - Estrae .pkg
 - [REPKG](https://github.com/notscuffed/repkg) - Estrae .tex
 
 # Spotify

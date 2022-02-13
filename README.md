@@ -29,11 +29,12 @@
 - [RARBG](https://rarbg.to)
 
 # Account gratis
-- [LEAKS](https://leak.sx/) - (Streaming, VPN, Gaming, Musica)
+- [LEAKS](https://leak.sx/) - (Streaming - VPN - Gaming - Musica - Altro)
 - [H-GEN](https://h-gen.to/) - (Disney+, NordVPN)
 - [H-GEN V2](https://beta.h-gen.to/) - (Disney+, NordVPN)
 - [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
-- [SELLIX](https://accountslayer.sellix.io/) - (Pagamento)
+- [SELLTHING](https://sellthing.co/) - (Musica - Streaming - Gaming - VPN - Educazione - Cibo - Altro)
+- [SELLIX](https://accountslayer.sellix.io/) - (Streaming - VPN - Educazione - Sport - Privati)
 
 # Porno
 - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)

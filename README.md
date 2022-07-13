@@ -1,7 +1,6 @@
 # Account gratis
 - [LEAKS](https://leak.sx/) - (Streaming - VPN - Gaming - Musica - Altro)
-- [H-GEN](https://h-gen.to/) - (Disney+, NordVPN)
-- [H-GEN V2](https://beta.h-gen.to/) - (Disney+, NordVPN)
+- [H-GEN](https://h-gen.to/) - (Disney+)
 - [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
 - [SELLTHING](https://sellthing.co/) - (Musica - Streaming - Gaming - VPN - Educazione - Cibo - Altro)
 - [SELLIX](https://accountslayer.sellix.io/) - (Streaming - VPN - Educazione - Sport - Privati)
@@ -9,7 +8,7 @@
 # Giochi gratis
 - [CS.RIN](https://cs.rin.ru/forum/)
 - [GOG GAMES](https://gog-games.com/) - (Tutti giochi GOG craccati)
-- [STEAM UNLOCKED](https://steamunlocked.net/)
+- [STEAM UNLOCKED](https://steamunlocked.net/) - (Giochi di Steam)
 - [GETGAMEZ](https://getgamez.net/)
 - [CRACKED GAMES](https://cracked-games.org/)
 - [OTOMI GAMES](https://otomi-games.com/) - (porno-hentai)

@@ -15,6 +15,9 @@
 - [KIMOCHI](https://kimochi.info/) - (hentai)
 - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - (android)
 
+# APK
+- [Spotify Premium](https://mega.nz/file/opBQjQ6Z#IUsYxBC3m1xP6wXODjTL1Jl5nwN8ACeTmhygMGfHmNg)
+
 # Porno
 - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)
 - [COOMER](https://coomer.party) - (Onlyfans)
@@ -25,12 +28,7 @@
 
 # Youtube
 - [NSFW](https://youtubensfw.com/) - Vedi video col blocco d'età
-
-# Torrent
-- [1337x](https://1337x.to/)
-- [RARBG](https://rarbg.to)
-
-
+- 
 # File di gioco
 - **rpa** = [RPA EXTRACT](https://iwanplays.itch.io/rpaex)
 - **pak - xp3** = [KRKR EXTRACT](https://xmoeproject.github.io/KrkrExtract/)

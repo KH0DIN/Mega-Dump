@@ -22,6 +22,7 @@
 - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)
 - [COOMER](https://coomer.party) - (Onlyfans)
 - [KEMONO](https://kemono.party/) - (Patreon)
+- [NERD18](https://nerd18.com/) - (Leaks)
 
 # Spotify
 - Rimuovi pubblicità [PC] = [BLOCKTHESPOT](https://github.com/mrpond/BlockTheSpot#installationupdate)

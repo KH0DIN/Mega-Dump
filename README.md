@@ -14,6 +14,7 @@
 - [OTOMI GAMES](https://otomi-games.com/) - (porno-hentai)
 - [KIMOCHI](https://kimochi.info/) - (hentai)
 - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - (android)
+- [MY EMULATOR](https://myemulator.online/) -- (Giochi retro)
 
 # STREAMING
 - [STREAMING CUMMUNITY](https://streamingcommunity.best/) - (Netflix Gratis)

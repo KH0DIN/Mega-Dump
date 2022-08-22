@@ -16,6 +16,8 @@
 - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - (android)
 - [MY EMULATOR](https://myemulator.online/) -- (Giochi retro)
 
+# App gratis
+- [OPEN SOURCE ALTERNATIVE](https://www.opensourcealternative.to/)- (Alternative gratis ad app a pagamento)
 # STREAMING
 - [STREAMING CUMMUNITY](https://streamingcommunity.best/) - (Netflix Gratis)
 

@@ -23,6 +23,7 @@
 
 # APK
 - [Spotify Premium](https://mega.nz/file/opBQjQ6Z#IUsYxBC3m1xP6wXODjTL1Jl5nwN8ACeTmhygMGfHmNg)
+- [Duolingo Premium](https://mega.nz/file/swQyXRJZ#RNQxaUWxmdZdvcmedLTkjCT9d_0UJMTYz-cTW_BgpVg)
 
 # Porno
 - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)

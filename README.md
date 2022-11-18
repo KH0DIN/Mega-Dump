@@ -58,7 +58,7 @@
 - [SHUTUP10](https://www.oo-software.com/en/shutup10) - (Impedisce a Windows di spiarti)
 
 # URL Shorteners
-- [THE BYPASSER](https://thebypasser.com/) - (Bypassa Linkvertise)
+- [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - (Bypassa Linkvertise)
 - [UNIVERSAL BYPASS](https://universal-bypass.org/) - (Estensione)
 
 # Estensioni Utili

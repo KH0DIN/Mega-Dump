@@ -47,8 +47,9 @@
 - **pak - xp3** = [KRKR EXTRACT](https://xmoeproject.github.io/KrkrExtract/)
 - **rgss3a** = [DECRYPTER](https://wiki.rpgmaker.es/ayuda/utilidades/rpg-maker-xp-vx-vx-ace-decrypter)
 - **rpgmvp - png_** = [DECRYPTER](https://petschko.org/tools/mv_decrypter/#restore-images)
-- [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/) - Estrae .pkg
-- [REPKG](https://github.com/notscuffed/repkg) - Estrae .tex
+- **pkg** = [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/)
+- **tex** = [REPKG](https://github.com/notscuffed/repkg)
+- **stex** = [GODOT UNPACKER](https://github.com/tehskai/godot-unpacker) e [STEX-TO-PNG](https://github.com/ClementineAccount/godot-stex-to-png)
 
 # Steam
 - [SAM](https://github.com/gibbed/SteamAchievementManager/releases/tag/7.0.25) - (Sblocca tutti gli achievement)

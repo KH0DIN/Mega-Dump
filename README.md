@@ -32,7 +32,7 @@
 - [NERD18](https://nerd18.com/) - (Leaks)
 
 # Spotify
-- Rimuovi pubblicità [PC] = [BLOCKTHESPOT](https://github.com/mrpond/BlockTheSpot#installationupdate)
+- [SPOTX]([https://github.com/mrpond/BlockTheSpot#installationupdate](https://github.com/amd64fox/SpotX)) - (Rimuove la pubblicità)
 
 # Youtube
 - [NSFW](https://youtubensfw.com/) - Vedi video col blocco d'età

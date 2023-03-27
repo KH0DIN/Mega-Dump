@@ -1,14 +1,11 @@
 # Account gratis
 - [LEAKS](https://leak.sx/) - (Streaming - VPN - Gaming - Musica - Altro)
-- [H-GEN](https://h-gen.to/) - (Disney+)
 - [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
 - [SELLTHING](https://sellthing.co/) - (Musica - Streaming - Gaming - VPN - Educazione - Cibo - Altro)
-- [SELLIX](https://accountslayer.sellix.io/) - (Streaming - VPN - Educazione - Sport - Privati)
 
 # Giochi gratis
 - [CS.RIN](https://cs.rin.ru/forum/)
 - [GOG GAMES](https://gog-games.com/) - (Tutti giochi GOG craccati)
-- [STEAM UNLOCKED](https://steamunlocked.net/) - (Giochi di Steam)
 - [GETGAMEZ](https://getgamez.net/)
 - [CRACKED GAMES](https://cracked-games.org/)
 - [OTOMI GAMES](https://otomi-games.com/) - (porno-hentai)
@@ -18,8 +15,6 @@
 
 # App gratis
 - [OPEN SOURCE ALTERNATIVE](https://www.opensourcealternative.to/)- (Alternative gratis ad app a pagamento)
-# STREAMING
-- [STREAMING CUMMUNITY](https://streamingcommunity.best/) - (Netflix Gratis)
 
 # APK
 - [Spotify Premium](https://mega.nz/file/opBQjQ6Z#IUsYxBC3m1xP6wXODjTL1Jl5nwN8ACeTmhygMGfHmNg)
@@ -50,6 +45,11 @@
 - **pkg** = [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/)
 - **tex** = [REPKG](https://github.com/notscuffed/repkg)
 - **stex** = [GODOT UNPACKER](https://github.com/tehskai/godot-unpacker) e [STEX-TO-PNG](https://github.com/ClementineAccount/godot-stex-to-png)
+
+# Discord
+- [WEBHOOK DELETER 3000](https://webhooks.scam.gay/) - Rimuove qualsiasi webhook
+- [CHAT EXPORTER](https://github.com/Tyrrrz/DiscordChatExporter) - Esporta le tue chat
+- [UNDISCORD](https://github.com/victornpb/undiscord) - Elimina i tuoi messaggi
 
 # Steam
 - [SAM](https://github.com/gibbed/SteamAchievementManager/releases/tag/7.0.25) - (Sblocca tutti gli achievement)

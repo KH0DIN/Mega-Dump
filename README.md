@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/is_safe-yes-green">
   <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
-  <img src="https://img.shields.io/badge/version%205.0-8A2BE2">
+  <img src="https://img.shields.io/badge/version%205.1-8A2BE2">
   <img src="https://img.shields.io/badge/Last_update-30/08/23-blue">
 </p>
 
@@ -35,13 +35,13 @@
   - [OTOMI GAMES](https://otomi-games.com/) - 🔞
   - [KIMOCHI](https://kimochi.info/) - 🔞
   - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - Modded APKs
-  - [MY EMULATOR](https://myemulator.online/) -- Retro games
+  - [MY EMULATOR](https://myemulator.online/) - Retro games
 
 * <b>🔞LEAKS</b>
-  - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)
-  - [COOMER](https://coomer.party) - (Onlyfans)
-  - [KEMONO](https://kemono.party/) - (Patreon)
-  - [NERD18](https://nerd18.com/) - (Onlyfans)
+  - [ONLY LEAKS](https://pornleaks.in/) - Onlyfans
+  - [COOMER](https://coomer.party) - Onlyfans
+  - [KEMONO](https://kemono.party/) - Patreon
+  - [NERD18](https://nerd18.com/) - Onlyfans
 
 ## <b>Sites and Apps</b>
 
@@ -80,7 +80,7 @@
 ## <b>APKs</b>
 - [Spotify Premium](https://www.xmanagerapp.com/)
 - [Duolingo Premium](https://mega.nz/file/swQyXRJZ#RNQxaUWxmdZdvcmedLTkjCT9d_0UJMTYz-cTW_BgpVg)
-- [Instagram Moddato](https://build.vanutp.dev/instander/instander-17.2.apk) - Ghost mode for stories/chats, removes ads, etc
+- [Modded Instagram](https://build.vanutp.dev/instander/instander-17.2.apk) - Ghost mode for stories/chats, removes ads, etc
 
 ## <b>Extensions</b>
 - [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - Linkvertise bypasses

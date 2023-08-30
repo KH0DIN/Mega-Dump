@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/is_safe-yes-green">
   <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
-  <img src="https://img.shields.io/badge/version%205.2-8A2BE2">
+  <img src="https://img.shields.io/badge/version%205.3-8A2BE2">
   <img src="https://img.shields.io/badge/Last_update-30/08/23-blue">
 </p>
 
@@ -85,12 +85,17 @@
 - [Cloudstream](https://github.com/recloudstream/cloudstream) - Streaming 
 
 ## <b>Extensions</b>
-- [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - Linkvertise bypasses
-- [FAST FORWARD](https://universal-bypass.org/) - Universal bypass
-- [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - Adds YT dislikes back, [firefox](https://addons.mozilla.org/it/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
-- [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skips sponsorships, [firefox](https://addons.mozilla.org/it/firefox/addon/sponsorblock/) version.
-- [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - Automatically solves captchas, [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
+* <b>URL SHORTENERS</b>
+  - [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - Linkvertise bypasses
+  - [TAMPERMONKEY LINKVERTISE BYPASS] - Requires Tampermonkey
+  - [FAST FORWARD](https://universal-bypass.org/) - Universal bypass
+* <b>YOUTUBE</b>
+  - [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - Adds YT dislikes back, [firefox](https://addons.mozilla.org/it/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
+  - [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skips sponsorships, [firefox](https://addons.mozilla.org/it/firefox/addon/sponsorblock/) version.
+* <b>MISC</b>
+  - [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - Automatically solves captchas, [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
 
 ## <b>Credits</b>
 - [r/piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)'s megathread.
-- [v3rmillion](https://www.v3rmillion.net)'s general exploiting section.
+- [v3rmillion](https://v3rmillion.net/forumdisplay.php?fid=33)'s general exploiting section.
+- The [v3rmillion](https://www.v3rmillion.net) community.

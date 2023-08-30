@@ -1,79 +1,94 @@
---------------------------------------------------------------------------------------------------------------
+<h1 align="center">
+  <br>
+  <img src="https://github.com/KH0DIN/Utility/assets/50776270/ca264531-5b52-42d6-821e-865d6aa3fc16" alt="Image Description" width="650" height="400">
+</h1>
+<h4 align="center">A list of useful websites, apps & programs for cheapskates.</h4>
 
-![logo](https://cdn.discordapp.com/attachments/768206784967344191/1090002774948847697/L_E_E_C_H_1.png)
-## Account gratis
-- [LEAKS](https://leak.sx/) - (Streaming - VPN - Gaming - Musica - Altro)
-- [FREE ALTS](https://freealts.pw/minecraft) - (Minecraft)
-- [SELLTHING](https://sellthing.co/) - (Musica - Streaming - Gaming - VPN - Educazione - Cibo - Altro)
+<p align="center">
+  <img src="https://img.shields.io/badge/is_safe-yes-green">
+  <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
+  <img src="https://img.shields.io/badge/version%205.0-8A2BE2">
+  <img src="https://img.shields.io/badge/Last_update-30/08/23-blue">
+</p>
 
-## Giochi gratis
-- [CS.RIN](https://cs.rin.ru/forum/)
-- [GOG GAMES](https://gog-games.com/) - (Tutti giochi GOG craccati)
-- [GETGAMEZ](https://getgamez.net/)
-- [CRACKED GAMES](https://cracked-games.org/)
-- [OTOMI GAMES](https://otomi-games.com/) - (porno-hentai)
-- [KIMOCHI](https://kimochi.info/) - (hentai)
-- [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - (android)
-- [MY EMULATOR](https://myemulator.online/) -- (Giochi retro)
+<p align="center">
+  <a href="#leech">Leech</a> •
+  <a href="#sites-and-apps">Sites and Apps</a> •
+  <a href="#mods">Mods</a> •
+  <a href="#apks">APKs</a> •
+  <a href="#extensions">Extensions</a> •
+  <a href="#credits">Credits</a>
+</p>
 
-## Porno
-- [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)
-- [COOMER](https://coomer.party) - (Onlyfans)
-- [KEMONO](https://kemono.party/) - (Patreon)
-- [NERD18](https://nerd18.com/) - (Leaks)
 
---------------------------------------------------------------------------------------------------------------
+## <b>Leech</b>
+* <b>FREE ACCOUNTS</b>
+  - [LEAKS](https://leak.sx/) - Streaming, VPN, Gaming, Music, Other
+  - [FREE ALTS](https://freealts.pw/minecraft) - Minecraft
+  - [SELLTHING](https://sellthing.co/) - Music, Streaming, Gaming, VPN, Education, Delivery, Other
 
-![logo](https://cdn.discordapp.com/attachments/768206784967344191/1090003028523880548/A_P_P______G_I_O_C_H_I.png)
+* <b>FREE GAMES</b>
+  - [CS.RIN](https://cs.rin.ru/forum/)
+  - [GETGAMEZ](https://getgamez.net/)
+  - [CRACKED GAMES](https://cracked-games.org/)
+  - [GOG GAMES](https://gog-games.com/) - GOG games
+  - [OTOMI GAMES](https://otomi-games.com/) - 🔞
+  - [KIMOCHI](https://kimochi.info/) - 🔞
+  - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - Modded APKs
+  - [MY EMULATOR](https://myemulator.online/) -- Retro games
 
-## Spotify
-- [SPOTX](https://github.com/amd64fox/SpotX) - (Rimuove la pubblicità)
-## Youtube
-- [NSFW](https://youtubensfw.com/) - Vedi video col blocco d'età
+* <b>🔞LEAKS</b>
+  - [ONLY LEAKS](https://pornleaks.in/) - (Onlyfans)
+  - [COOMER](https://coomer.party) - (Onlyfans)
+  - [KEMONO](https://kemono.party/) - (Patreon)
+  - [NERD18](https://nerd18.com/) - (Onlyfans)
 
-## Discord
-- [WEBHOOK DELETER 3000](https://webhooks.scam.gay/) - Rimuove qualsiasi webhook
-- [CHAT EXPORTER](https://github.com/Tyrrrz/DiscordChatExporter) - Esporta le tue chat
-- [UNDISCORD](https://github.com/victornpb/undiscord) - Elimina i tuoi messaggi
+## <b>Sites and Apps</b>
 
-## Steam
-- [SAM](https://github.com/gibbed/SteamAchievementManager/releases/tag/7.0.25) - (Sblocca tutti gli achievement)
-- [SWD](https://steamworkshopdownloader.io/) - (Scarica contenuti dal workshop)
+* <b>YOUTUBE</b>
+  - [NSFW](https://youtubensfw.com/) - Watch age restricted videos
 
-## Roblox
-- [RBLXSERVERS](https://rbxservers.xyz) - Vip server gratis
-- [ADURITE](https://adurite.com/) - Limited e Robux a poco prezzo
-- [RO PLACE](https://ro.place) - Limited e Robux a poco prezzo
-- [LUGER](https://luger.gg) - oggetti per Murder Mystery 2
+* <b>DISCORD</b>
+  - [WEBHOOK DELETER 3000](https://webhooks.scam.gay/) - Removes webhooks
+  - [CHAT EXPORTER](https://github.com/Tyrrrz/DiscordChatExporter) - Exports chats
+  - [UNDISCORD](https://github.com/victornpb/undiscord) - Deletes messages automatically
 
-## Windows
-- [SHUTUP10](https://www.oo-software.com/en/shutup10) - (Impedisce a Windows di spiarti)
+* <b>STEAM</b>
+  - [SAM](https://github.com/gibbed/SteamAchievementManager/releases/tag/7.0.25) - Unlocks every achievement
+  - [SWD](https://steamworkshopdownloader.io/) - Downloads Workshop content
 
-## APK
-- [Spotify Premium](https://mega.nz/file/opBQjQ6Z#IUsYxBC3m1xP6wXODjTL1Jl5nwN8ACeTmhygMGfHmNg)
+* <b>ROBLOX</b>
+  - [RBLXSERVERS](https://rbxservers.xyz) - Free vip servers
+  - [ADURITE](https://adurite.com/) - Cheap Limiteds & Robux
+  - [RO PLACE](https://ro.place) - Cheap Limiteds & Robux
+
+## <b>Mods</b>
+* <b>WINDOWS</b>
+  - [MASSGRAVE](https://massgrave.dev/) - Activates Windows 10/11 Pro
+  ```php
+  irm https://massgrave.dev/get | iex
+  ```
+  > ⚠️
+  > Paste the code inside `Powershell`, not CMD.
+* <b>SPOTIFY</b>
+  - [SPOTX](https://github.com/amd64fox/SpotX) - Removes ads (PC) 
+  ```php
+  [Net.ServicePointManager]::SecurityProtocol = 3072; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
+  ```
+  > ⚠️
+  > Paste the code inside `Powershell`, not CMD.
+## <b>APKs</b>
+- [Spotify Premium](https://www.xmanagerapp.com/)
 - [Duolingo Premium](https://mega.nz/file/swQyXRJZ#RNQxaUWxmdZdvcmedLTkjCT9d_0UJMTYz-cTW_BgpVg)
+- [Instagram Moddato](https://build.vanutp.dev/instander/instander-17.2.apk) - Ghost mode for stories/chats, removes ads, etc
 
+## <b>Extensions</b>
+- [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - Linkvertise bypasses
+- [FAST FORWARD](https://universal-bypass.org/) - Universal bypass
+- [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - Adds YT dislikes back, [firefox](https://addons.mozilla.org/it/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
+- [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skips sponsorships, [firefox](https://addons.mozilla.org/it/firefox/addon/sponsorblock/) version.
+- [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - Automatically solves captchas, [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
 
---------------------------------------------------------------------------------------------------------------
-
-![logo](https://cdn.discordapp.com/attachments/768206784967344191/1090007114098946199/G_A_M_E____F_I_L_E_S_1.png)
-
-- **rpa** = [RPA EXTRACT](https://iwanplays.itch.io/rpaex)
-- **pak - xp3** = [KRKR EXTRACT](https://xmoeproject.github.io/KrkrExtract/)
-- **rgss3a** = [DECRYPTER](https://wiki.rpgmaker.es/ayuda/utilidades/rpg-maker-xp-vx-vx-ace-decrypter)
-- **rpgmvp - png_** = [DECRYPTER](https://petschko.org/tools/mv_decrypter/#restore-images)
-- **pkg** = [UNPACKET](https://wetranslate.thiscould.work/scene.pkg/)
-- **tex** = [REPKG](https://github.com/notscuffed/repkg)
-- **stex** = [GODOT UNPACKER](https://github.com/tehskai/godot-unpacker) e [STEX-TO-PNG](https://github.com/ClementineAccount/godot-stex-to-png)
-
---------------------------------------------------------------------------------------------------------------
-
-![logo](https://cdn.discordapp.com/attachments/768206784967344191/1090007552768622642/E_S_T_E_N_S_I_O_N_I.png)
-
-# Estensioni Utili
-- [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - (Bypassa Linkvertise)
-- [FAST FORWARD](https://universal-bypass.org/) - (URL shortener)
-- [HONEY](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - (Sconti Shopping Online) [firefox](https://addons.mozilla.org/it/firefox/addon/honey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - (Aggiunge i Dislike su Youtube) [firefox](https://addons.mozilla.org/it/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - (Rimuove le sponsorizzazioni dai video) [firefox](https://addons.mozilla.org/it/firefox/addon/sponsorblock/)
-- [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - (Risolve i Capcha in 1 secondo) [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+## <b>Credits</b>
+- [r/piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)'s megathread.
+- [v3rmillion](https://www.v3rmillion.net)'s general exploiting section.

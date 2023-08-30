@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/is_safe-yes-green">
   <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
-  <img src="https://img.shields.io/badge/version%205.1-8A2BE2">
+  <img src="https://img.shields.io/badge/version%205.2-8A2BE2">
   <img src="https://img.shields.io/badge/Last_update-30/08/23-blue">
 </p>
 
@@ -81,6 +81,8 @@
 - [Spotify Premium](https://www.xmanagerapp.com/)
 - [Duolingo Premium](https://mega.nz/file/swQyXRJZ#RNQxaUWxmdZdvcmedLTkjCT9d_0UJMTYz-cTW_BgpVg)
 - [Modded Instagram](https://build.vanutp.dev/instander/instander-17.2.apk) - Ghost mode for stories/chats, removes ads, etc
+- [Revanced](https://github.com/revanced) - Youtube premium (Requires ROOT)
+- [Cloudstream](https://github.com/recloudstream/cloudstream) - Streaming 
 
 ## <b>Extensions</b>
 - [THE BYPASSER](https://thebypasser.com/) / [VIP BYPASS](https://bypass.vip/) - Linkvertise bypasses

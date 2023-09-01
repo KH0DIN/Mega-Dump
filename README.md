@@ -82,7 +82,8 @@
 - [Duolingo Premium](https://mega.nz/file/swQyXRJZ#RNQxaUWxmdZdvcmedLTkjCT9d_0UJMTYz-cTW_BgpVg)
 - [Modded Instagram](https://build.vanutp.dev/instander/instander-17.2.apk) - Ghost mode for stories/chats, removes ads, etc
 - [Revanced](https://github.com/revanced) - Youtube premium (Requires ROOT)
-- [Cloudstream](https://github.com/recloudstream/cloudstream) - Streaming 
+- [Cloudstream](https://github.com/recloudstream/cloudstream) - Streaming
+- [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat mod
 
 ## <b>Extensions</b>
 * <b>URL SHORTENERS</b>

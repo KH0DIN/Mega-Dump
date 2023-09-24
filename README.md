@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/is_safe-yes-green">
   <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
-  <img src="https://img.shields.io/badge/version%205.4-8A2BE2">
-  <img src="https://img.shields.io/badge/Last_update-30/08/23-blue">
+  <img src="https://img.shields.io/badge/version%205.5-8A2BE2">
+  <img src="https://img.shields.io/badge/Last_update-24/09/23-blue">
 </p>
 
 <p align="center">
@@ -99,6 +99,9 @@
 * <b>YOUTUBE</b>
   - [RETURN YT DISLIKES](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - Adds YT dislikes back, [firefox](https://addons.mozilla.org/it/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
   - [SPONSORBLOCK](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skips sponsorships, [firefox](https://addons.mozilla.org/it/firefox/addon/sponsorblock/) version.
+* <b>[VIOLENT MONKEY](https://violentmonkey.github.io/)<b>
+  - [ANTI ANTI COPY](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it
+  - [NEWSPAPER BYPASS](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - a collection of scripts that block websites' paywalls
 * <b>MISC</b>
   - [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - Automatically solves captchas, [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
 

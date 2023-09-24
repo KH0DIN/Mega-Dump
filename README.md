@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/is_safe-yes-green">
   <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
-  <img src="https://img.shields.io/badge/version%205.3-8A2BE2">
+  <img src="https://img.shields.io/badge/version%205.4-8A2BE2">
   <img src="https://img.shields.io/badge/Last_update-30/08/23-blue">
 </p>
 
@@ -36,7 +36,13 @@
   - [KIMOCHI](https://kimochi.info/) - 🔞
   - [PANDA HELPER](https://panda-helper.it.malavida.com/android/) - Modded APKs
   - [MY EMULATOR](https://myemulator.online/) - Retro games
-
+  - 
+* <b>STREAMING</b>
+  - [STREAMING COMMUNITY](https://streamingcommunity.expert/) - Streaming 🇮🇹
+  - [123CHILL](https://123chill.to/) - Streaming 🇬🇧
+  - [ANIME SATURN](https://www.animesaturn.tv/) - Anime Sub/Dub 🇮🇹
+  - [4ANIME](https://4anime.gg/) - Anime Sub/Dub 🇬🇧
+-
 * <b>🔞LEAKS</b>
   - [ONLY LEAKS](https://pornleaks.in/) - Onlyfans
   - [COOMER](https://coomer.party) - Onlyfans

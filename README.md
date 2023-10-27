@@ -5,10 +5,7 @@
 <h4 align="center">A list of useful websites, apps & programs for cheapskates.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/is_safe-yes-green">
-  <img src="https://img.shields.io/badge/Status-Up_to_date-pink">
-  <img src="https://img.shields.io/badge/version%205.5-8A2BE2">
-  <img src="https://img.shields.io/badge/Last_update-24/09/23-blue">
+  <img src="https://img.shields.io/badge/last_update-24/09/23-pink">
 </p>
 
 <p align="center">

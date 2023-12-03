@@ -83,10 +83,11 @@
 ## <b>APKs</b>
 - [Spotify Premium](https://www.xmanagerapp.com/)
 - [Duolingo Premium](https://mega.nz/file/swQyXRJZ#RNQxaUWxmdZdvcmedLTkjCT9d_0UJMTYz-cTW_BgpVg)
-- [Modded Instagram](https://build.vanutp.dev/instander/instander-17.2.apk) - Ghost mode for stories/chats, removes ads, etc
-- [Revanced](https://github.com/revanced) - Youtube premium (Requires ROOT)
+- [Modded Instagram](https://thedise.me/instander/) - Ghost mode for stories/chats, removes ads, etc
+- [Revanced](https://github.com/revanced) - Youtube premium
 - [Cloudstream](https://github.com/recloudstream/cloudstream) - Streaming
 - [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat mod
+- [Messenger Pro](https://github.com/Mino260806/MessengerPro/releases) - Mod for Facebook Messenger
 
 ## <b>Extensions</b>
 * <b>URL SHORTENERS</b>

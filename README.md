@@ -109,6 +109,8 @@
   > Paste the code inside `Powershell`, not CMD.
 </details>
 
+<br/>
+
 ## <b>APKs</b>
 - [xMANAGER](https://www.xmanagerapp.com/) - Spotify premium
 - [Instander](https://thedise.me/instander/) - Instagram premium + mods
@@ -116,6 +118,8 @@
 - [Cloudstream](https://github.com/recloudstream/cloudstream) - Streaming
 - [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat mod
 - [Messenger Pro](https://github.com/Mino260806/MessengerPro/releases) - Facebook Messenger mod
+
+<br/>
 
 ## <b>Extensions</b>
 * <b>URL SHORTENERS</b>
@@ -129,11 +133,12 @@
     <br/>
     
 * <b>[VIOLENT MONKEY](https://violentmonkey.github.io/)<b>
-  - [ANTI ANTI COPY](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it
+  - [ANTI ANTI COPY](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypasses it
   - [NEWSPAPER BYPASS](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - a collection of scripts that block websites' paywalls
     <br/>
 * <b>MISC</b>
   - [BUSTER](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - Automatically solves captchas, [firefox](https://addons.mozilla.org/it/firefox/addon/buster-captcha-solver/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) version.
+<br/>
 
 ## <b>Credits</b>
 - [r/piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)'s megathread.

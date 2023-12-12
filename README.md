@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/last_update-24/09/23-pink">
 </p>
 
+[//]: # (Summary)
+
 <p align="center">
   <a href="#leech">Leech</a> •
   <a href="#sites-and-apps">Sites and Apps</a> •
@@ -19,10 +21,12 @@
 
 
 ## <b>Leech</b>
+  
 * <b>FREE ACCOUNTS</b>
   - [LEAKS](https://leak.sx/) - Streaming, VPN, Gaming, Music, Other
   - [FREE ALTS](https://freealts.pw/minecraft) - Minecraft
   - [SELLTHING](https://sellthing.co/) - Music, Streaming, Gaming, VPN, Education, Delivery, Other
+  
 
 * <b>FREE GAMES</b>
   - [CS.RIN](https://cs.rin.ru/forum/)
@@ -68,14 +72,29 @@
 ## <b>Mods</b>
 * <b>WINDOWS</b>
   - [MASSGRAVE](https://massgrave.dev/) - Activates Windows 10/11 Pro
-  ```php
+  ```powershell
   irm https://massgrave.dev/get | iex
   ```
   > ⚠️
   > Paste the code inside `Powershell`, not CMD.
-* <b>SPOTIFY</b>
-  - [SPOTX](https://github.com/amd64fox/SpotX) - Removes ads (PC) 
-  ```php
+<br/>
+  
+* <b>SPOTIFY (PC)</b>
+  - [SPICETIFY](https://spicetify.app/) - Removes ads + annoying popups + adds a marketplace
+  ```powershell
+  [Net.ServicePointManager]::SecurityProtocol = 3072; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
+  ```
+  ```powershell
+  # Use this if you want to add the marketplace
+  iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
+  ```
+  > ⚠️
+  > Paste the code inside `Powershell`, not CMD.
+
+<br/>
+
+  - [SPOTX](https://github.com/amd64fox/SpotX) - Removes ads
+  ```powershell
   [Net.ServicePointManager]::SecurityProtocol = 3072; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
   ```
   > ⚠️
